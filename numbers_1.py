@@ -1,6 +1,6 @@
 import random
 
-user_guess = int(input("enter a number 1-10: "))
+
 
 
 def secret_number():
